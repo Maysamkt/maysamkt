@@ -4,7 +4,7 @@
 
 Profissional graduada em Marketing e acadêmica em Sistemas de Informação no 7º período, com mais de 15 anos de experiência em Marketing em diversos setores. Vasto conhecimento em ferramentas de ilustração digital, redação publicitária, gestão de tráfego e marketing digital.
 
-Atualmente, estou em transição para a área de Desenvolvimento de Software, buscando novos desafios e aprimorando minhas habilidades técnicas. Estou cursando Sistemas de Informação no Instituto Federal Goiano, e iniciei uma especialização em Desenvolvimento Web no IFSULDEMINAS, tenho focado em backend, desenvolvimento web, inteligência artificial para desenvolvimento de chatbots e desenvolvimento científico-tecnológico.
+Atualmente, estou em transição para a área de Desenvolvimento de Software, buscando novos desafios e aprimorando minhas habilidades técnicas. Estou cursando Sistemas de Informação no Instituto Federal Goiano, e iniciei uma especialização em Desenvolvimento Web no IFSULDEMINAS, tenho focado em Backend, Desenvolvimento Web, Desenvolvimento de Jogos, e Inteligência Artificial para desenvolvimento de chatbots.
 
 ***
 ## 📫 Onde Me Encontrar
