@@ -2,9 +2,9 @@
 
 # Maysa Santos ✨ _maysamkt_ ✨
 
-Profissional graduada em Marketing e acadêmica em Sistemas de Informação no 7º período, com mais de 15 anos de experiência em Marketing em diversos setores. Vasto conhecimento em ferramentas de ilustração digital, redação publicitária, gestão de tráfego e marketing digital.
+Profissional graduada em Marketing (Tecnólogo), Especialização em Desenvolvimento Web (pós-graduação lato senso) e acadêmica de Sistemas de Informação (Bacharelado), com mais de 15 anos de experiência em Marketing em diversos setores. Vasto conhecimento em ferramentas de ilustração digital, redação publicitária, gestão de tráfego e marketing digital.
 
-Atualmente, estou em transição para a área de Desenvolvimento de Software, buscando novos desafios e aprimorando minhas habilidades técnicas. Estou cursando Sistemas de Informação no Instituto Federal Goiano, e iniciei uma especialização em Desenvolvimento Web no IFSULDEMINAS, tenho focado em Backend, Desenvolvimento Web, Desenvolvimento de Jogos, e Inteligência Artificial para desenvolvimento de chatbots.
+Atualmente, estou em transição para a área de Desenvolvimento de Software, buscando novos desafios e aprimorando minhas habilidades técnicas. Estou cursando Sistemas de Informação no Instituto Federal Goiano onde também adquiri experiência como pesquisadora científica e pesquisa em desenvolvimento tecnológico, tenho focado em Backend, Desenvolvimento Web, Desenvolvimento de Jogos, e Inteligência Artificial para desenvolvimento de chatbots.
 
 ***
 ## 📫 Onde Me Encontrar
@@ -24,12 +24,15 @@ Atualmente, estou em transição para a área de Desenvolvimento de Software, bu
 - ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maysamkt&layout=compact&theme=radical&locale=pt-br)
+
 ***
 ## 🌱 Atividades Recentes e Projetos
 
 - Embaixadora DIO Campus Expert 7ª turma.
-- Participando do Industry4Her 9ª turma.
-- Integrante da comunidade Alumni Potência Tech Ifood.
+- Alumni Industry4Her 9ª turma.
+- Alumni Potência Tech Ifood.
+- Conquista de pódio em Hackathons.
 - Participação ativa em projetos de pesquisa e desenvolvimento de soluções de tecnologia e software no Instituto Federal Goiano.
 - Frequentando eventos e workshops da comunidade tech para expandir conhecimentos e conexões na área de Desenvolvimento de Software.
 
@@ -43,9 +46,12 @@ Atualmente, estou em transição para a área de Desenvolvimento de Software, bu
 - 📫 Como me encontrar: Envie uma mensagem pelo LinkedIn ou GitHub.
 - ⚡ Curiosidade: Amo explorar novas culturas através do cinema e da leitura.
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Maysamkt&theme=dark&locale=pt_BR&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+***
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maysamkt&theme=neon&bg_color=&border_color=000&show_icons=true&icon_color=neon&title_color=F&text_color=)
+[![GitHub Streak](https://streak-stats.demolab.com?user=maysamkt&theme=radical&locale=pt_BR&card_width=500&card_height=200)](https://git.io/streak-stats)
+
+![Maysa's GitHub stats](https://github-readme-stats.vercel.app/api?username=maysamkt&show_icons=true&theme=radical&locale=pt-br)
+
 
 
 ***
@@ -54,9 +60,9 @@ Atualmente, estou em transição para a área de Desenvolvimento de Software, bu
 
 # Maysa Santos ✨ _maysamkt_ ✨
 
-Graduated professional in Marketing and currently a Systems Information student in the 7th period, with over 15 years of experience in Marketing across various sectors. Extensive knowledge in digital illustration tools, copywriting, traffic management, and digital marketing.
+Professional graduated in Marketing (Technologist), Specialization in Web Development (lato senso post-graduation) and academic of Information Systems (Bachelor's Degree), with more than 15 years of experience in Marketing in various sectors. Vast knowledge in digital illustration tools, copywriting, traffic management and digital marketing.
 
-Currently, I'm transitioning into the Software Development field, seeking new challenges and refining my technical skills. I'm pursuing a Systems Information degree at the Federal Institute of Goiano and started a specialization in Web Development at IFSULDEMINAS, focusing on backend, web development, artificial intelligence for chatbot development, and scientific-technological development.
+Currently, I am transitioning to the Software Development area, seeking new challenges and improving my technical skills. I am studying Information Systems at the Federal Institute of Goiás where I also gained experience as a scientific researcher and research in technological development, I have focused on Backend, Web Development, Game Development, and Artificial Intelligence for chatbot development.
 ***
 ## 📫 Where to Find Me
 
@@ -73,12 +79,15 @@ Currently, I'm transitioning into the Software Development field, seeking new ch
 - ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 - ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maysamkt&layout=compact&theme=radical)
 ***
 ## 🌱 Recent Activities and Projects
 
 - DIO Campus Expert 7th class Ambassador.
-- Participating in the Industry4Her 9th class.
-- Member of the Alumni Potência Tech Ifood community.
+- Alumni Industry4Her 9th class.
+- Alumni Potência Tech Ifood community.
+- Achievement of podium in Hackathons.
 - Actively involved in research projects and software technology solutions development at the Federal Institute of Goiano.
 - Attending tech community events and workshops to expand knowledge and connections in Software Development.
 ***
@@ -91,7 +100,9 @@ Currently, I'm transitioning into the Software Development field, seeking new ch
 - 📫 How to reach me: Send a message via LinkedIn or GitHub.
 - ⚡ Fun Fact: I love exploring new cultures through cinema and reading.
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Maysamkt&theme=dark&locale=pt_BR&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=maysamkt&theme=radical&card_width=500&card_height=200)](https://git.io/streak-stats)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maysamkt&theme=neon&bg_color=&border_color=000&show_icons=true&icon_color=neon&title_color=F&text_color=)
+![Maysa's GitHub stats](https://github-readme-stats.vercel.app/api?username=maysamkt&show_icons=true&theme=radical)
+
+
 
