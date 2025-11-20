@@ -1,4 +1,4 @@
-### olá! 👋 [PT-Br Language]
+### olá! 👋 [PT-Br]
 
 # Maysa Santos ✨ _maysamkt_ ✨
 
